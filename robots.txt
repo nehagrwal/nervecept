@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/nervecept/sitemap.xml
+Sitemap: https://nervecept.vercel.app/sitemap-vercel.xml
+Sitemap: https://nervecept.pages.dev/sitemap-cloudflare.xml
